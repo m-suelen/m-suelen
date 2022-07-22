@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there!
+
+<img src="https://media0.giphy.com/media/6ME5Kp3hUzPh1pCWjh/giphy.gif?cid=ecf05e47m0b8xefk281jp4cbwzpojo8ylyidslojnxeftins&rid=giphy.gif&ct=s" width="100" height="100" frameBorder="0"></img><p><a href="https://giphy.com/stickers/cat-kitty-sanrio-6ME5Kp3hUzPh1pCWjh"></a></p>
 
 ##
 
