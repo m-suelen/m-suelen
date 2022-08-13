@@ -13,6 +13,9 @@
 <img align = "center" alt = "CSS" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align = "center" alt = "Js" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align = "center" alt = "Python" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align = "center" alt = "Java" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align = "center" alt = "Csharp" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align = "center" alt = "Php" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <img align = "center" alt = "MySql" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align = "center" alt = "Git" height = "30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
@@ -21,4 +24,6 @@
 
 <a href="https://www.linkedin.com/in/msuelen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:suelenmarin2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&locoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/Suelen#6254" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+
+
