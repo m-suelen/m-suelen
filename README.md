@@ -24,7 +24,6 @@
 
 <a href="https://www.linkedin.com/in/msuelen" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:suelenmarin2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&locoColor=white" target="_blank"></a>
-<a href="![qr_tmp](https://user-images.githubusercontent.com/104173458/184545721-9183069c-bea8-4f40-b99f-f8ce329104c4.jpg)
-" target="_blank"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="https://drive.google.com/file/d/1Wt_FHyZ1OUGN55TQvJLvPoWFRhYTv3TL/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
 
